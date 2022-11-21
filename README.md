@@ -343,7 +343,7 @@ Se cumple que el valor de salida es menor al valor de entrada
 
 VIDEO
 
-
+https://youtu.be/EqFHguV4kNc
 
 
 CONCLUSIONES
