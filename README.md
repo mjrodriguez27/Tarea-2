@@ -351,3 +351,11 @@ CONCLUSIONES
 Al concluir este informe que tiene el fin de entender las leyes de Kirchhoff, aplicando lectura, análisis y resolución de ejercicios, se pudo apreciar la aplicación práctica de los conocimientos adquiridos sobre prefijos métricos, conversión de unidades de tiempo, la ley de ohm e identificación de eficacia de potencia, que a su vez están relacionados con conceptos básicos como corriente voltaje y resistencia.
 
 BIBLIOGRAFÍA
+
+Juárez, A. R. R. Ley de Ohm.
+
+Juárez, A. R. R. Leyes de Kirchhoff.
+
+Hart, D. W., & Bautista, A. B. (2001). Electrónica de potencia (Vol. 32). Madrid, España: Prentice Hall.
+
+
